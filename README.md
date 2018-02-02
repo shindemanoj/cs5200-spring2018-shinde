@@ -1,4 +1,4 @@
-## Integrating Spring Boot with MySQL
+# Integrating Spring Boot with MySQL
 
 [Insert a static hello message](http://cs5200-spring2018-shinde.us-east-1.elasticbeanstalk.com/api/hello/insert)
 
